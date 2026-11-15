@@ -1,0 +1,33 @@
+LICENCE D'UTILISATION DE GI-CAPTURE
+===================================
+
+1. Objet
+GI-Capture est un logiciel gratuit d'enregistrement d'écran, développé par un particulier à titre non commercial. Son utilisation est libre et gratuite.
+
+2. Absence de garantie
+Le logiciel est fourni « en l'état », sans garantie d'aucune sorte, expresse ou implicite, notamment de bon fonctionnement, d'absence d'erreurs ou d'adéquation à un usage particulier.
+
+3. Données
+Les vidéos et captures d'écran sont enregistrées uniquement sur l'ordinateur de l'utilisateur, dans le dossier qu'il a choisi. Le logiciel ne se connecte à aucun serveur : aucune donnée, image ou son n'est transmis à l'auteur ni à un tiers.
+Il appartient à l'utilisateur de sauvegarder ses enregistrements.
+
+4. Contenus enregistrés
+L'utilisateur est seul responsable de ce qu'il enregistre et de l'usage qu'il fait de ses enregistrements. Il s'engage à respecter les droits d'auteur et droits voisins (films, musiques, vidéos, logiciels, sites…), le droit à l'image et la vie privée des personnes filmées ou enregistrées, ainsi que les conditions d'utilisation des services dont il capture le contenu.
+
+5. Responsabilité
+Dans toute la mesure permise par la loi, l'auteur ne pourra être tenu responsable d'aucun dommage direct ou indirect résultant de l'utilisation ou de l'impossibilité d'utiliser le logiciel, notamment la perte d'un enregistrement ou de données, ni de l'usage que l'utilisateur fait des contenus qu'il enregistre.
+
+6. Redistribution
+Le logiciel peut être copié et partagé gratuitement, sans modification. Il ne peut pas être vendu.
+
+7. Acceptation et droit applicable
+L'utilisateur accepte la présente licence en cochant la case « J'accepte les conditions d'utilisation », lors de l'installation ou, pour la version portable, au premier lancement. Le logiciel ne peut pas être installé ni utilisé sans cette acceptation. La licence reste consultable à tout moment depuis le bouton « À propos » de l'application.
+La présente licence est régie par le droit français.
+
+
+COMPOSANTS TIERS
+----------------
+GI-Capture utilise les composants libres suivants, distribués selon leur propre licence. Les présentes conditions ne s'appliquent pas à eux.
+- Electron (licence MIT) et Chromium (licences diverses) : voir les fichiers LICENSE.electron.txt et LICENSES.chromium.html dans le dossier d'installation.
+- FFmpeg 6.0, version « essentials » compilée par gyan.dev (licence GNU GPL version 3), utilisé comme programme séparé pour convertir les vidéos en MP4. Il intègre notamment l'encodeur x264 (GPL). Texte de la licence : dossier « licences-tiers » du dossier d'installation. Code source : https://github.com/FFmpeg/FFmpeg/commit/ea3d24bbe3 et https://www.gyan.dev/ffmpeg/builds/
+- koffi (licence MIT) : voir le dossier « licences-tiers ».
